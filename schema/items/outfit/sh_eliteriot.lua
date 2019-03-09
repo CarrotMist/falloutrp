@@ -1,0 +1,9 @@
+ITEM.name = "NCR Elite Riot Gear"
+ITEM.desc = "The elite riot gear is a unique armor and the most advanced model of L.A.P.D. riot armor, superior to the pre-War 11th Armored Cavalry Regiment riot armor. Originally an 11th Armored Cavalry Regiment riot armor that was modified over time, it was the personal armor of an NCR riot control officer in the Divide, supervising the NCR riot operation in the Third Street Municipal Building before the destruction of the Divide."
+ITEM.model = "models/llama/briefcasedopen.mdl"
+ITEM.width = 3
+ITEM.height = 3
+ITEM.outfitCategory = "model"
+ITEM.flag = "f"
+ITEM.category = "Outfits"
+ITEM.replacements = "models/fallout_nv/nikout/lonesomeroad/riotsoldier.mdl"

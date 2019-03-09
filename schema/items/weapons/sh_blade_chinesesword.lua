@@ -1,0 +1,9 @@
+ITEM.name = "Chinese Officer Sword"
+ITEM.desc = "These weapons are remnants from the United States' war with China, an event that triggered the Great War. They were most likely brought back by American soldiers fighting in various campaigns in mainland China, or were brought by Chinese infiltrators and saboteurs like the ones at Mama Dolce's and elsewhere throughout the United States."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/chineseofficersword.mdl"
+ITEM.class = "weapon_chineseofficersword"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

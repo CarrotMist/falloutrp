@@ -1,0 +1,9 @@
+ITEM.name = "10mm Ammo"
+ITEM.desc = "A box of 50 rounds used for small arms. Ammmo may not save after use."
+ITEM.entdrop = "10mmammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/10mm.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

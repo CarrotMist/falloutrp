@@ -1,0 +1,9 @@
+ITEM.name = "Infiltrator - Silenced and Scoped"
+ITEM.desc = "Uses 5.56mm rounds. The Infiltrator is a silenced and scoped assault rifle. Its appearance consists of a black paint finish, a scope, and is basically a shortened and stock-less variant of the R91 assault rifle that was standard-issue in the United States Armed Forces at the time of the Great War. Based on its name, it was probably created to be used for special operations groups. The Infiltrator fires 5.56mm round and utilizes a 24-round magazine."
+ITEM.model = "models/halokiller38/fallout/weapons/assaultrifles/infiltratorsilscp.mdl"
+ITEM.class = "weapon_infiltratorsilscp"
+ITEM.weaponCategory = "assault"
+ITEM.flag = "a"
+ITEM.category = "Assault Weapons"
+ITEM.width = 4
+ITEM.height = 2

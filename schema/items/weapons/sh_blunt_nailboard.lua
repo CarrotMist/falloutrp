@@ -1,0 +1,9 @@
+ITEM.name = "Nail Board"
+ITEM.desc = "This 2x4 has several nails driven through it, with a whittled shaft to ensure a better grip."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/nailboard.mdl"
+ITEM.class = "weapon_nailboard"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 2

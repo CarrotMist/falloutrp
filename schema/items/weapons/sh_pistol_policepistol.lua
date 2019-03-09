@@ -1,0 +1,9 @@
+ITEM.name = "Police Pistol"
+ITEM.desc = "Uses .357 Rounds. The police pistol is a double action .357 revolver with a swing-out cylinder. It features a shorter barrel and a worn matte black (blued) finish. It lacks rear sights and has a shorter hammer with a flat, textured spur."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/policepistol.mdl"
+ITEM.class = "weapon_policepistol"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

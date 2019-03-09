@@ -1,0 +1,9 @@
+ITEM.name = "Machete Gladius"
+ITEM.desc = "The wide blade at the head with an indentation into the blade towards the hilt is designed to give more weight to the head of the blade, allowing for more momentum with slashes. Like a machete, it does bonus limb damage. It can be repaired with another machete gladius, or regular machetes. "
+ITEM.model = "models/halokiller38/fallout/weapons/melee/machetegladius.mdl"
+ITEM.class = "weapon_machetegladius"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

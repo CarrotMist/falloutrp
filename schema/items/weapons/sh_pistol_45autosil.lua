@@ -1,0 +1,9 @@
+ITEM.name = ".45 Auto Pistol w/ Silencer"
+ITEM.desc = "Uses .45 rounds. The .45 Auto pistol is a single-action, semi-automatic, magazine-fed handgun that utilizes .45 Auto ammunition. While the .45 AP improved sights modification was cut from the game, the sights are still present on the weapon's default model (pre- and post-modified versions). This gives the .45 Auto pistol luminescent sights, and as such, it is very effective in caves and dark areas."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/45pistolsil.mdl"
+ITEM.class = "weapon_45autopistolsil"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

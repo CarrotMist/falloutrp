@@ -1,0 +1,9 @@
+ITEM.name = "Straight Razor"
+ITEM.desc = "The straight razor is an old-fashioned shaving razor with a polished wooden handle. Though its blade is short, it's lightweight and can deliver several slashing hits in rapid succession. "
+ITEM.model = "models/halokiller38/fallout/weapons/melee/straightrazor.mdl"
+ITEM.class = "weapon_straightrazor"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 1

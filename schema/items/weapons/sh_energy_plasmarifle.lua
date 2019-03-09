@@ -1,0 +1,9 @@
+ITEM.name = "Plasma Rifle"
+ITEM.desc = "Uses microfusion cells. Plasma rifles or plasma casters are high-tech weapons which find numerous applications in military and industrial fields. They fire superheated bolts of plasma powered by either microfusion cells, heavy energy cells or plasma cartridges. The bolt forms in a special chamber, which is then sent down a superconducting barrel, propelled by, and in some models stabilized by electromagnetic claws upon exiting it."
+ITEM.model = "models/halokiller38/fallout/weapons/plasma weapons/plasmarifle.mdl"
+ITEM.class = "weapon_plasmarifle"
+ITEM.weaponCategory = "energy"
+ITEM.flag = "L"
+ITEM.category = "Energy Weapons"
+ITEM.width = 4
+ITEM.height = 2

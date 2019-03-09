@@ -1,0 +1,9 @@
+ITEM.name = "Alien Disintegrator"
+ITEM.desc = "Uses alien rounds. The alien disintegrator is an energy weapon created by aliens, and is the primary rifle used by the alien soldiers onboard Mothership Zeta in 2277, along with the Alien atomizer."
+ITEM.model = "models/halokiller38/fallout/weapons/alien weapons/aliendisintegrator.mdl"
+ITEM.class = "weapon_aliendisintegrator"
+ITEM.weaponCategory = "special"
+ITEM.flag = "S"
+ITEM.category = "Special Weapons"
+ITEM.width = 4
+ITEM.height = 2

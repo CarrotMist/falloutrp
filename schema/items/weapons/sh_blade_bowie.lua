@@ -1,0 +1,9 @@
+ITEM.name = "Bowie Knife"
+ITEM.desc = "The Bowie knife has a large clip-point blade and a riveted brown handle. Small contact marks mar the edge, and streaks of what appears to be blood can be seen running across the sides of the blade and the hilt. The blade is stamped with the serial number 02280."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/rustykitchenknife.mdl"
+ITEM.class = "weapon_bowieknife"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 1

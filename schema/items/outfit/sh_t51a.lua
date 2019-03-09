@@ -1,0 +1,9 @@
+ITEM.name = "T-51a"
+ITEM.desc = "The T-51a power armor was developed in the laboratories of the West Tek research facility. At the end of the Anchorage Reclamation in January 2077, the armor had become standard issue for American soldiers in the Army's Mechanized Cavalry Regiments with significant modifications over the earlier model: the T-45d power armor. This armor is a variation of the T-51b power armor."
+ITEM.model = "models/llama/briefcasedopen.mdl"
+ITEM.width = 3
+ITEM.height = 3
+ITEM.outfitCategory = "model"
+ITEM.flag = "f"
+ITEM.category = "Outfits"
+ITEM.replacements = "models/t51b/t51a.mdl"

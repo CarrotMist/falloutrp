@@ -1,0 +1,9 @@
+ITEM.name = "Super Sledge"
+ITEM.desc = "Cosmetically and functionally, this variant of the super sledge is unique compared to most other super sledges found in previous games, in that it uses a miniature rocket propulsion system to deliver powerful blows similar to the turbo super sledge found in the Midwest, rather than the kinetic energy storing device that powers the other super sledges found in the New California, Capital and Mojave wastelands. It has a slender handle design, similar to the Brotherhood model."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/supersledge.mdl"
+ITEM.class = "weapon_supersledge"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

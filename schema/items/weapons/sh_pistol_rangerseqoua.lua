@@ -1,0 +1,9 @@
+ITEM.name = "Ranger Sequoia"
+ITEM.desc = "Uses .45-70 Govt. Rounds. This large, double-action revolver is a rare, scopeless variant of the hunting revolver. It is used exclusively by the New California Republic Rangers, and is carried only by a NCR Veteran Ranger after 20 years of service. This revolver features a dark finish with intricate engravings etched all around the weapon. Engraved along the barrel are the words 'For Honorable Service,' and 'Against All Tyrants.' The hand grip bears the symbol of the NCR Rangers, a bear, and a brass plate attached to the bottom that reads '20 Years.'"
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/rangersequoia.mdl"
+ITEM.class = "weapon_rangersequoia"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

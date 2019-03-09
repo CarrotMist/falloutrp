@@ -1,0 +1,9 @@
+ITEM.name = ".22 LR Ammo"
+ITEM.desc = "A box of 100 rounds used for silenced small arms. Ammmo may not save after use."
+ITEM.entdrop = "22lrammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/22lr.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

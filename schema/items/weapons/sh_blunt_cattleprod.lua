@@ -1,0 +1,9 @@
+ITEM.name = "Cattle Prod"
+ITEM.desc = "An electric coil sitting on the end of a black and yellow shaft, the cattle prod is powered by small energy cells and is a decent mid-game weapon."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/cattleprod.mdl"
+ITEM.class = "weapon_cattleprod"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 1

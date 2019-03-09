@@ -1,0 +1,9 @@
+ITEM.name = "Shoulder Mounted Machine Gun"
+ITEM.desc = "Uses 10mm rounds. The shoulder mounted machine gun is essentially a shoulder-mounted minigun. It is chamberered to use 10mm rounds and has a low rate of fire compared to other heavy automatic weapons. It has the highest damage per round of weapons chambered for the 10mm round. However, it can be difficult to maintain, as only other SMMGs can repair it, even with Jury Rigging, and it is extremely expensive to repair unless the player character has a ready supply of weapon repair kits. Alternatively, if the first rank of ED-E's upgrades was found, repairing this gun will not be a problem."
+ITEM.model = "models/halokiller38/fallout/weapons/heavy weapons/shouldermountedmg.mdl"
+ITEM.class = "weapon_smmg"
+ITEM.weaponCategory = "heavy"
+ITEM.flag = "H"
+ITEM.category = "Heavy Weapons"
+ITEM.width = 5
+ITEM.height = 3

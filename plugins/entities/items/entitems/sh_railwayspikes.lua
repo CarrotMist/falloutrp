@@ -1,0 +1,9 @@
+ITEM.name = "Railway Spikes"
+ITEM.desc = "A box of 50 railway spikes used as ammo for a launcher. Ammmo may not save after use."
+ITEM.entdrop = "railwayspikes"
+ITEM.model = "models/mosi/fallout4/ammo/railwayspikes.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

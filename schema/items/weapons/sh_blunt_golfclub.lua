@@ -1,0 +1,9 @@
+ITEM.name = "Golf Club"
+ITEM.desc = "A simple golf club used as a makeshift weapon. It has a slow swing speed and decent damage."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/gclub.mdl"
+ITEM.class = "weapon_gclub"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 2

@@ -1,0 +1,9 @@
+ITEM.name = "Electron Charging Packs"
+ITEM.desc = "A box of 100 rounds used for some energy heavy weapons. Ammmo may not save after use."
+ITEM.entdrop = "electronchargepacks"
+ITEM.model = "models/visualitygaming/fallout/ammo/ecell.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

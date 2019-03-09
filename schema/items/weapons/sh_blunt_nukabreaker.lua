@@ -1,0 +1,9 @@
+ITEM.name = "Nuka Breaker"
+ITEM.desc = "It is a Nuka-Cola sign, now re-purposed as a devastating melee weapon. It consists of a partially functioning Nuka-Cola neon sign which is mounted on a pole with an electric cord wrapped around the top, and tape at the bottom. The weapon uses a self-contained power supply."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/nukabreaker.mdl"
+ITEM.class = "weapon_nukabreaker"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

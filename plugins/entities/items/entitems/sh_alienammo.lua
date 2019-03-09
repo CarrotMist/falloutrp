@@ -1,0 +1,9 @@
+ITEM.name = "Alient Power Cells"
+ITEM.model = "models/visualitygaming/fallout/ammo/ecell.mdl"
+ITEM.desc = "A charged battery enough for 50 shots. Ammo may not save after use."
+ITEM.width = 1
+ITEM.height = 1
+ITEM.entdrop = "alienpowercells"
+ITEM.price = 1000
+ITEM.category = "Ammunition"
+ITEM.flag = "A"

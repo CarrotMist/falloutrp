@@ -1,0 +1,9 @@
+ITEM.name = "Bumper Sword"
+ITEM.desc = "The bumper sword, as the name suggests, consists of a rusty car bumper that has been flattened and sharpened into a thick, heavy blade. The license plate is still attached, and an exhaust pipe strapped to the unsharpened end serves as a makeshift handle."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/bumpersword.mdl"
+ITEM.class = "weapon_bumpersword"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

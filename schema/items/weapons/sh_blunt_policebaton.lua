@@ -1,0 +1,9 @@
+ITEM.name = "Police Baton"
+ITEM.desc = "A weapon meant to keep order, used by long-gone police, it is now used by peacekeepers and trouble-makers alike. It projects a modest damage for a weapon that requires no skill or Strength to use effectively. It also has a relatively quick rate of attack, making it a fine choice for an early level Melee Weapons oriented player."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/shockbaton.mdl"
+ITEM.class = "weapon_policebaton"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 1

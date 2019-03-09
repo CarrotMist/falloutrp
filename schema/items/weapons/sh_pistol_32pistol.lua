@@ -1,0 +1,9 @@
+ITEM.name = ".32 Revolver"
+ITEM.desc = "Uses .32 rounds. The Smith & Wesson .32 pistol was manufactured throughout the late nineteenth century and into the early part of the twentieth. As the name implies, it uses .32 caliber rounds for ammunition. It is commonly found to be in use by raiders and wastelanders. Although it is a light weapon, it pales against the 10mm pistol in terms of rate of fire and damage. It can, however, be fired quite fast if the player can get a rhythm down."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/32pistol.mdl"
+ITEM.class = "weapon_32pistol"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

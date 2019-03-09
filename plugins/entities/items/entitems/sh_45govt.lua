@@ -1,0 +1,9 @@
+ITEM.name = ".45-70 Govt. Ammo"
+ITEM.desc = "A box of 50 rounds used for specialty revolvers. Ammmo may not save after use."
+ITEM.entdrop = "45-70govtammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/4570govt.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

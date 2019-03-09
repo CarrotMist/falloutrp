@@ -1,0 +1,9 @@
+ITEM.name = "Alien Blaster"
+ITEM.desc = "Uses alien rounds. The gun is very futuristic in appearance, with a chrome and red paint job."
+ITEM.model = "models/halokiller38/fallout/weapons/alien weapons/alienblaster.mdl"
+ITEM.class = "weapon_alienblaster"
+ITEM.weaponCategory = "special"
+ITEM.flag = "S"
+ITEM.category = "Special Weapons"
+ITEM.width = 2
+ITEM.height = 1

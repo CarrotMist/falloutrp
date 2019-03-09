@@ -1,0 +1,26 @@
+ITEM.name = "Milk Carton"
+ITEM.uniqueID = "food_milk_carton"
+ITEM.model = "models/props_junk/garbage_milkcarton002a.mdl"
+ITEM.hungerAmount = 12
+ITEM.foodDesc = "An old carton of milk. Yummy."
+ITEM.quantity = 3
+ITEM.price = 0
+ITEM.width = 1
+ITEM.height = 2
+ITEM.container = "j_empty_milk_carton"
+ITEM.isFood = true
+ITEM.cookable = false
+ITEM.mustCooked = false
+ITEM.sound = "npc/barnacle/barnacle_gulp1.wav"
+
+ITEM.attribBoosts = { 
+	["accuracy"] = 4,
+	["str"] = 4,
+	["end"] = 4,
+}
+
+ITEM.iconCam = {
+	pos = Vector(-200, 0, 0),
+	ang = Angle(0, -0, 0),
+	fov = 3,
+}

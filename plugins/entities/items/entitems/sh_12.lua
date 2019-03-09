@@ -1,0 +1,9 @@
+ITEM.name = "12 Gauage Ammo"
+ITEM.desc = "A box of 50 rounds used for some shotguns. Ammmo may not save after use."
+ITEM.entdrop = "12gaugeammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/12gauge.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

@@ -1,0 +1,9 @@
+ITEM.name = "CZ-57 Avenger"
+ITEM.desc = "Uses 5mm rounds. Rockwell designed the 5mm CZ57 Avenger as the replacement for their aging CZ53 personal minigun. The Avenger's design improvements include improved gel-fin cooling and chromium plated barrel-bores, giving it a greater range and lethality.[1] It also has an ammo capacity of 120x 5mm round like the earlier versions of the CZ53 model. Later models of CZ57 have a high-speed motor, a cage underneath to put the ammo box and used in combination with a backpack."
+ITEM.model = "models/halokiller38/fallout/weapons/heavy weapons/minigununique.mdl"
+ITEM.class = "weapon_minigunu"
+ITEM.weaponCategory = "heavy"
+ITEM.flag = "H"
+ITEM.category = "Heavy Weapons"
+ITEM.width = 5
+ITEM.height = 3

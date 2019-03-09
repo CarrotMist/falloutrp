@@ -1,0 +1,9 @@
+ITEM.name = "Alien Atomizer"
+ITEM.desc = "Uses alien rounds. It has an average rate of fire and does relatively high damage when compared to other sidearms found throughout the Capital Wasteland, second only to scoped .44 Magnums and their unique versions. With a 0 spread rating it is also dead-on accurate, making shots fire exactly on the crosshair for a 100 energy weapons skill user. Like the alien disintegrator it has a very high item HP, and its ray will ignite gas leaks it travels through."
+ITEM.class = "weapon_alienatomizer"
+ITEM.weaponCategory = "special"
+ITEM.flag = "S"
+ITEM.category = "Special Weapons"
+ITEM.model = "models/halokiller38/fallout/weapons/alien weapons/alienatomizer.mdl"
+ITEM.width = 2
+ITEM.height = 1

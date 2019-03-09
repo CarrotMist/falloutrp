@@ -1,0 +1,9 @@
+ITEM.name = "Energy Cells"
+ITEM.desc = "A box of 50 rounds used for some small energy weapons. Ammmo may not save after use."
+ITEM.entdrop = "energycells"
+ITEM.model = "models/visualitygaming/fallout/ammo/ecell.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

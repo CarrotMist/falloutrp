@@ -1,0 +1,9 @@
+ITEM.name = "12.7mm Ammo"
+ITEM.desc = "A box of 50 rounds used for some handguns. Ammmo may not save after use."
+ITEM.entdrop = "127mmammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/127mm.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

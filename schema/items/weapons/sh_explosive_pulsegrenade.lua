@@ -1,0 +1,9 @@
+ITEM.name = "Pulse Grenade"
+ITEM.desc = "The pulse grenade is a weapon that creates a large crackling electromagnetic pulse, dealing only minor damage to biological creatures, but far more damage to mechanical targets such as robots and automated turrets. In addition, most robots are disabled for a few seconds by the burst, leaving them open to attack."
+ITEM.model = "models/halokiller38/fallout/weapons/explosives/stungrenade.mdl"
+ITEM.class = "weapon_grenadepulse"
+ITEM.weaponCategory = "explosive"
+ITEM.flag = "X"
+ITEM.category = "Explosives"
+ITEM.width = 1
+ITEM.height = 1

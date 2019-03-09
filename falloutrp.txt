@@ -1,0 +1,6 @@
+"falloutrp"
+{
+	"base" 		"nutscript"
+	"title" 		"NS - Fallout 2 Roleplay"
+	"author"		"SuperMicronde, vin, Trip, Otunga, CarrotMist, Freelok"
+}

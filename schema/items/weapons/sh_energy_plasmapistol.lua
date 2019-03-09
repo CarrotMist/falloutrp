@@ -1,0 +1,9 @@
+ITEM.name = "Plasma Pistol"
+ITEM.desc = "Uses energy cells. This plasma pistol has five tributary energy arcs connected to a central cathode, and the cathode functions as a point of focus, or the barrel. The energy is projected forward, probably by an electromagnetic propeller built around the cathode. The propelled energy forms a Plasma Pinch; though rather slow, the pinch carries high levels of both thermal and kinetic energy."
+ITEM.model = "models/halokiller38/fallout/weapons/plasma weapons/plasmapistol.mdl"
+ITEM.class = "weapon_plasmapistol"
+ITEM.weaponCategory = "energy"
+ITEM.flag = "L"
+ITEM.category = "Energy Weapons"
+ITEM.width = 2
+ITEM.height = 1

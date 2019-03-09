@@ -1,0 +1,9 @@
+ITEM.name = "308 Ammo"
+ITEM.desc = "A box of 50 rounds used for sniper rifles. Ammmo may not save after use."
+ITEM.entdrop = "308ammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/308.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

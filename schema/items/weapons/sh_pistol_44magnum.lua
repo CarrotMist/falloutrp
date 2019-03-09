@@ -1,0 +1,9 @@
+ITEM.name = ".44 Magnum"
+ITEM.desc = "Uses .44 rounds. .44 Magnum ammunition was designed in the 1950s for use in revolvers. After the Great War, there are a variety of surviving revolvers chambered for that round."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/44magnumrevolver.mdl"
+ITEM.class = "weapon_44revolver"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

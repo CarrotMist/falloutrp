@@ -1,0 +1,9 @@
+ITEM.name = "Laser Pistol"
+ITEM.desc = "Uses energy cells. The primary energy service weapon of the United States military, the AER9 is a sturdy, reliable weapon focusing on ruggedness and usability over performance. The titanium cage housing the laser rifle mechanism is durable and retains focus of the internal arrays over extended periods of time, although the emphasis on reliability reduces firepower compared to state-of-the-art models like the AER12, with its gold alloy housing."
+ITEM.model = "models/halokiller38/fallout/weapons/energy weapons/laserpistol.mdl"
+ITEM.class = "weapon_laserpistol"
+ITEM.weaponCategory = "energy"
+ITEM.flag = "L"
+ITEM.category = "Energy Weapons"
+ITEM.width = 2
+ITEM.height = 1

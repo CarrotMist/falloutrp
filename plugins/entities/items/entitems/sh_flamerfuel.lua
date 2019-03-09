@@ -1,0 +1,9 @@
+ITEM.name = "Flamer Fuel"
+ITEM.desc = "A tank of gas. Ammmo may not save after use."
+ITEM.entdrop = "flamerfuel"
+ITEM.model = "models/mosi/fallout4/ammo/flamerfuel.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

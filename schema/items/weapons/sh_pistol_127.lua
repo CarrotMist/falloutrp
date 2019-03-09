@@ -1,0 +1,9 @@
+ITEM.name = "12.7mm Pistol"
+ITEM.desc = "Uses 12.7mm rounds. A Swiss SIG-Sauer 14mm handgun rechambered for 12.7mm ammunition, likely designed for long-range pistol hunting or target shooting. It was imported to the United States from the European Commonwealth before the war.[1] They were decently common early on in the survivor era, but the number of working units has swiftly declined."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/127mmpistol.mdl"
+ITEM.class = "weapon_127mmpistol"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

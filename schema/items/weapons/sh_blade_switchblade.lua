@@ -1,0 +1,9 @@
+ITEM.name = "Switchblade"
+ITEM.desc = "The switchblade is a small melee weapon that may be swung fast, but with small damage inflicted upon enemies. It is first thrust at an enemy before swinging it in a slash with the second swing."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/switchblade.mdl"
+ITEM.class = "weapon_switchblade"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 1

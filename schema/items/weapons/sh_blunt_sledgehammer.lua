@@ -1,0 +1,9 @@
+ITEM.name = "Sledge Hammer"
+ITEM.desc = "A simple tool repurposed to serve as a basic melee weapon. It is relatively heavy and slow to swing but capable of inflicting reasonably high amounts of damage, especially in the early game stages. Later in the game, it usually finds itself outclassed by its big brother, the super sledge. Its upgrade options in the base game encompass only two modifications, both of which require fairly little in terms of perks and crafting components."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/sledgehammer.mdl"
+ITEM.class = "weapon_sledgehammer"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

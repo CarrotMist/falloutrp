@@ -1,0 +1,9 @@
+ITEM.name = "Fireaxe"
+ITEM.desc = "The fire axe is a wooden handled axe with a heavy steel head intended for firefighting use. It has a broad finely sharpened front blade and a sharp pick point on the rear of the head. The long hardwood handle allows for sweeping attacks at reasonable distance and is partially rubber coated to ensure a good grip on the weapon. Originally designed for breaking down walls and doors, this weapon can inflict severe damage to a soft target."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/fireaxe.mdl"
+ITEM.class = "weapon_fireaxe"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

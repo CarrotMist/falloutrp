@@ -1,0 +1,9 @@
+ITEM.name = "Vertibird Blade"
+ITEM.desc = "It is a huge sword made from a Vertibird rotor strapped to a long piece of wood via leather straps."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/lilysblade.mdl"
+ITEM.class = "weapon_lilysblade"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 3

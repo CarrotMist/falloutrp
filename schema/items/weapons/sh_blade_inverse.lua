@@ -1,0 +1,9 @@
+ITEM.name = "Protonic Inversal Axe"
+ITEM.desc = "The protonic inversal axe is a variant of the proton axe, having a dark blue-violet blade, whitish capacitors, and a black handle. Compared to the standard proton axe, it deals increased damage and much more critical damage, in addition to being much more durable. It is a very effective melee weapon against just about any enemy, especially robots or power armor users."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/protonaxe.mdl"
+ITEM.class = "weapon_inverseaxe"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 3

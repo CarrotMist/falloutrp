@@ -1,0 +1,9 @@
+ITEM.name = "Shovel"
+ITEM.desc = "A wood handled shovel, useful for digging up graves. In combat it can be used against weaker enemies without wasting ammunition or the durability of stronger melee weapons."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/shovel.mdl"
+ITEM.class = "weapon_shovel"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

@@ -1,0 +1,9 @@
+ITEM.name = "Light Machine Gun"
+ITEM.desc = "Uses 5.56mm rounds. The light machine gun is a fully automatic 5.56mm machine gun with a rapid rate of fire and an ammunition capacity of 90 5.56mm rounds. In 2281 within the New California Republic Army, the light machine gun is only issued to the NCR heavy troopers, the finest of the NCR troops."
+ITEM.model = "models/halokiller38/fallout/weapons/heavy weapons/lightmachinegun.mdl"
+ITEM.class = "weapon_lmg"
+ITEM.weaponCategory = "heavy"
+ITEM.flag = "H"
+ITEM.category = "Heavy Weapons"
+ITEM.width = 5
+ITEM.height = 2

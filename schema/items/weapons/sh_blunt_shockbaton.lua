@@ -1,0 +1,9 @@
+ITEM.name = "Shock Baton"
+ITEM.desc = "This is a collapsible model law enforcement baton, used by various police departments before the Great War. It is standard issue gear for Vault-Tec security forces, alongside the 10mm combat pistol."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/shockbaton.mdl"
+ITEM.class = "weapon_shockbaton"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 1

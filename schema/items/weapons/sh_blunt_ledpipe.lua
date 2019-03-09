@@ -1,0 +1,9 @@
+ITEM.name = "Lead Pipe"
+ITEM.desc = "One of the ends has tape wrapped around it to improve grip, while the other is heavily corroded and/or bloodstained, and topped with a pipe fitting. Though it has a short reach, it has decent damage and a fast swing, making it an especially good melee weapon for players who are just starting out."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/leadpipe.mdl"
+ITEM.class = "weapon_leadpipe"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 2

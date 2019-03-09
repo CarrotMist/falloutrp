@@ -1,0 +1,9 @@
+ITEM.name = "Machete"
+ITEM.desc = "The machete is a broad, single-edged blade with a wooden grip wrapped in cloth. It has a medium swinging speed and is swung in alternating diagonal slashes."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/machete.mdl"
+ITEM.class = "weapon_machete"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

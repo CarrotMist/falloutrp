@@ -1,0 +1,9 @@
+ITEM.name = "Dress Cane"
+ITEM.desc = "It is in excellent condition, and is made of a sturdy, shiny black wood with an ivory handle. It cannot be walked with and is always held as a weapon, even when walking slowly."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/dresscane.mdl"
+ITEM.class = "weapon_dresscane"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 2

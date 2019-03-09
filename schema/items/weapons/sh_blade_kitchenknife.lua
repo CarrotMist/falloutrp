@@ -1,0 +1,9 @@
+ITEM.name = "Kitchen Knife"
+ITEM.desc = "Serving its purpose in the kitchen before the Great War, it now functions as a small melee weapon that deals a moderate amount of damage. Initially, it can serve as a somewhat valuable loot item, making it a helpful find. It's also very good in the beginning of the game against rats and other small animals, like geckos."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/kitchenknife.mdl"
+ITEM.class = "weapon_kitchenknife"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 1

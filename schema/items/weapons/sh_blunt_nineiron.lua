@@ -1,0 +1,9 @@
+ITEM.name = "Nine Iron"
+ITEM.desc = "This old 9 iron is bent and battered after many years of exposure to the elements."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/9iron.mdl"
+ITEM.class = "weapon_nineiron"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 2

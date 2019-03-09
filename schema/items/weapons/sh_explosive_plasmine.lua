@@ -1,0 +1,9 @@
+ITEM.name = "Plasma Mine"
+ITEM.desc = "A mine that can be placed on the ground. When it senses an enemy movement in a small radius, it releases a powerful burst of plasma."
+ITEM.model = "models/halokiller38/fallout/weapons/mines/plasmamine.mdl"
+ITEM.class = "weapon_mineplasma"
+ITEM.weaponCategory = "explosive"
+ITEM.flag = "X"
+ITEM.category = "Explosives"
+ITEM.width = 1
+ITEM.height = 1

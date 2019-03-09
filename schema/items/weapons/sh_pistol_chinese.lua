@@ -1,0 +1,9 @@
+ITEM.name = "Chinese Pistol"
+ITEM.desc = "Uses 10mm rounds. Originally produced in 1929 by the Taiyuan Arsenal for the army of Yan Xishan, this pistol is now a relic of the Sino-American War. The Shanxi Type 17 was a mass-produced sidearm before the Great War."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/chinesepistol.mdl"
+ITEM.class = "weapon_chinesepistol"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

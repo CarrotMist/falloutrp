@@ -1,0 +1,9 @@
+ITEM.name = "Chance's Knife"
+ITEM.desc = "This knife belonged to Chance, one of the Great Khans."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/chancesknife.mdl"
+ITEM.class = "weapon_chancesknife"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

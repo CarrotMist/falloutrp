@@ -1,0 +1,9 @@
+ITEM.name = "Rebar Club"
+ITEM.desc = "This crude weapon is a piece of concrete with three pieces of rebar sticking out of it. In addition, the bottom of the three rebars appears to be wound together with a strip of brown leather or cloth to make a handle."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/rebar.mdl"
+ITEM.class = "weapon_rebarclub"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

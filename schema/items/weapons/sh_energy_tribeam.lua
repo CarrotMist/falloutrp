@@ -1,0 +1,9 @@
+ITEM.name = "Tri-beam Laser Rifle"
+ITEM.desc = "Uses microfusion cells. The tri-beam laser rifle has the appearance of a sawed-off laser rifle, missing the tube on the bottom length of the barrel, being rather shorter than other models, and having a new emitter aperture and attached wires."
+ITEM.model = "models/halokiller38/fallout/weapons/energy weapons/tribeamlaserrifle.mdl"
+ITEM.class = "weapon_tribeam"
+ITEM.weaponCategory = "energy"
+ITEM.flag = "L"
+ITEM.category = "Energy Weapons"
+ITEM.width = 4
+ITEM.height = 2

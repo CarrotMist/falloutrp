@@ -1,0 +1,9 @@
+ITEM.name = "Tire Iron"
+ITEM.desc = "A rusty old tire iron, normally used for loosening nuts from car tires. The tire iron has a high damage for a low-level weapon."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/tireiron.mdl"
+ITEM.class = "weapon_tireiron"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 1

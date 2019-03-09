@@ -1,0 +1,9 @@
+ITEM.name = "Samurai Sword"
+ITEM.desc = "Renowned for its sharpness and cutting ability, its origins go back at least as far as the Kamakura Period (1185–1333). Most often held with two hands, some techniques and combat styles were performed with a one-handed grip. The katana was generally carried in a saya, or scabbard, manufactured from lightweight wood, with a coat of lacquer on the exterior and a wooden knob on one side for attaching a braided cord."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/samuraisword.mdl"
+ITEM.class = "weapon_samuraisword"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 3

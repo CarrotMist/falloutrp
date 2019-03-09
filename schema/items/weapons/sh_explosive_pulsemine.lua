@@ -1,0 +1,9 @@
+ITEM.name = "Pulse Mine"
+ITEM.desc = "The pulse mine consists of a proximity fuse and miniaturized EMP device enclosed in a gray metal casing screwed to the base. Armed status is indicated by four red diodes situated on top of the cover."
+ITEM.model = "models/halokiller38/fallout/weapons/mines/pulsemine.mdl"
+ITEM.class = "weapon_minepulse"
+ITEM.weaponCategory = "explosive"
+ITEM.flag = "X"
+ITEM.category = "Explosives"
+ITEM.width = 1
+ITEM.height = 1

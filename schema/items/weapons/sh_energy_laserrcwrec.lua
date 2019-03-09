@@ -1,0 +1,9 @@
+ITEM.name = "Laser RCW w/ Recycler"
+ITEM.desc = "Uses electron charge packs. The unique feature of this laser assault rifle that not only gives the weapon its name, but also its unique look and high rate of fire for a laser rifle is the addition of a drum. This drum contains a bank of 6 capacitors in a circle formation centered around a electron charge pack that charges them."
+ITEM.model = "models/halokiller38/fallout/weapons/energy weapons/laserpdwrecycler.mdl"
+ITEM.class = "weapon_laserpdw"
+ITEM.weaponCategory = "energy"
+ITEM.flag = "L"
+ITEM.category = "Energy Weapons"
+ITEM.width = 4
+ITEM.height = 2

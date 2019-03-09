@@ -1,0 +1,9 @@
+ITEM.name = "Fire Hydrant Bat"
+ITEM.desc = "It's a bat with a fire hydrant on it. Very heavy and generally only used by super mutants."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/firehydrant.mdl"
+ITEM.class = "weapon_firehydrant"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

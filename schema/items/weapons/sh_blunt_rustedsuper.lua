@@ -1,0 +1,9 @@
+ITEM.name = "Rusted Super Sledge"
+ITEM.desc = "An old rusted variant of the super sledge."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/supersledgeunique.mdl"
+ITEM.class = "weapon_supersledgeu"
+ITEM.weaponCategory = "blunt"
+ITEM.flag = "B"
+ITEM.category = "Blunt Weapons"
+ITEM.width = 1
+ITEM.height = 3

@@ -1,0 +1,9 @@
+ITEM.name = "All American Rifle"
+ITEM.desc = "Uses 5.56mm rounds. The All-American is the unique variant of the semi-automatic Marksman carbine with woodland camouflage, a magazine capacity of 24 and a higher magnification scope. It also bears the distinctive 82nd All-American Airborne division insignia."
+ITEM.model = "models/halokiller38/fallout/weapons/assaultrifles/marksmancarbinea.mdl"
+ITEM.class = "weapon_marksmancarbinea"
+ITEM.weaponCategory = "assault"
+ITEM.flag = "a"
+ITEM.category = "Assault Weapons"
+ITEM.width = 4
+ITEM.height = 2

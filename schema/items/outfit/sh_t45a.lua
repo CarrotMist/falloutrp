@@ -1,0 +1,9 @@
+ITEM.name = "T-45a"
+ITEM.desc = "The T-45a power armor is a variation from the T-45d power armor that was the first version of power armor to be successfully deployed in battle, manufactured by the defense contractor West Tek."
+ITEM.model = "models/llama/briefcasedopen.mdl"
+ITEM.width = 3
+ITEM.height = 3
+ITEM.outfitCategory = "model"
+ITEM.flag = "f"
+ITEM.category = "Outfits"
+ITEM.replacements = "models/power_armor/t45a.mdl"

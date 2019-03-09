@@ -1,0 +1,9 @@
+ITEM.name = "Microfusion Cells"
+ITEM.desc = "A box of 50 microfusion cells used for larger energy weapons. Ammmo may not save after use."
+ITEM.entdrop = "microfusioncells"
+ITEM.model = "models/mosi/fallout4/ammo/microfusioncell.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

@@ -1,0 +1,9 @@
+ITEM.name = ".44 Ammo"
+ITEM.desc = "A box of 50 rounds used for certain revolvers. Ammmo may not save after use."
+ITEM.entdrop = "44magnumammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/44mag.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

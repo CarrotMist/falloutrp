@@ -1,0 +1,9 @@
+ITEM.name = "Plasma Grenade"
+ITEM.desc = "Plasma grenades are very rare, but powerful thrown explosives. When detonated, a small explosive in the grenade ruptures the magnetic seal containing a charge of superheated plasma energy."
+ITEM.model = "models/halokiller38/fallout/weapons/explosives/plasmagrenade.mdl"
+ITEM.class = "weapon_grenadeplasma"
+ITEM.weaponCategory = "explosive"
+ITEM.flag = "X"
+ITEM.category = "Explosives"
+ITEM.width = 1
+ITEM.height = 1

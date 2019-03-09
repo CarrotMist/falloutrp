@@ -1,0 +1,9 @@
+ITEM.name = "Multiplas Rifle"
+ITEM.desc = "Uses microfusion cells. The multiplas rifle (a portmanteau of multiple and plasma) is based on the urban plasma rifle design. It is a sort of plasma shotgun, firing three rounds of plasma in a volley, at the cost of a massive drain on the microfusion cell."
+ITEM.model = "models/halokiller38/fallout/weapons/plasma weapons/multiplasrifle.mdl"
+ITEM.class = "weapon_multiplasrifle"
+ITEM.weaponCategory = "energy"
+ITEM.flag = "L"
+ITEM.category = "Energy Weapons"
+ITEM.width = 4
+ITEM.height = 2

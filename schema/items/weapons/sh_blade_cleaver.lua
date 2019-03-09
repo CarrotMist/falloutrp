@@ -1,0 +1,9 @@
+ITEM.name = "Cleaver"
+ITEM.desc = "The cleaver was designed to chop hunks of meat for use in butcher's shops, but has since been repurposed as a melee weapon. It also does bonus damage to limbs."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/cleaver.mdl"
+ITEM.class = "weapon_cleaver"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 1

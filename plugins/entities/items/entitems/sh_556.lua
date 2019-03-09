@@ -1,0 +1,9 @@
+ITEM.name = "5.56mm Ammo"
+ITEM.desc = "A box of 50 rounds used for some launchers. Ammmo may not save after use."
+ITEM.entdrop = "556mmammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/556.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

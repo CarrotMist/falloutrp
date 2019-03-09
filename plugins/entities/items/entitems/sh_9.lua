@@ -1,0 +1,9 @@
+ITEM.name = "9mm Ammo"
+ITEM.desc = "A box of 100 rounds used for some heavy weapons. Ammmo may not save after use."
+ITEM.entdrop = "9mmammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/10mm.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1

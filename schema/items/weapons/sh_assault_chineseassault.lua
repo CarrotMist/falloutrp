@@ -1,0 +1,9 @@
+ITEM.name = "Chinese Assault Rifle"
+ITEM.desc = "Uses 5.56mm rounds. The Type 93 Chinese assault rifle[1] was designed and manufactured by a Chinese industrial conglomerate for the People's Liberation Army during the Resource Wars, for the purpose of equipping the Chinese infiltrators and American fifth-columnists. To this end, it was chambered for the abundant 5.56mm round and utilizes a 24-round magazine. Thousands of these weapons were smuggled into the US for use by Chinese operatives and sympathizers on the East Coast, and many remain functional even two hundred years after the Great War. These rifles are also proven to be ready for manufacturing in post-War conditions."
+ITEM.model = "models/halokiller38/fallout/weapons/assaultrifles/chineseassaultrifle.mdl"
+ITEM.class = "weapon_chineseassaultrifle"
+ITEM.weaponCategory = "assault"
+ITEM.flag = "a"
+ITEM.category = "Assault Weapons"
+ITEM.width = 4
+ITEM.height = 2

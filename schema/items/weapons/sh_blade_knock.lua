@@ -1,0 +1,9 @@
+ITEM.name = "Knock-Knock"
+ITEM.desc = "Knock-Knock is a cleaner, more powerful version of the fire axe, with a matte black handle and a polished steel head with a longer fluke."
+ITEM.model = "models/halokiller38/fallout/weapons/melee/fireaxeunique.mdl"
+ITEM.class = "weapon_fireaxeu"
+ITEM.weaponCategory = "blade"
+ITEM.flag = "b"
+ITEM.category = "Bladed Weapons"
+ITEM.width = 1
+ITEM.height = 2

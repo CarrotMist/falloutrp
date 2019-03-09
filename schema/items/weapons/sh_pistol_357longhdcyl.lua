@@ -1,0 +1,9 @@
+ITEM.name = ".357 Magnum w/ Long Barrel and HD Cylinder"
+ITEM.desc = "Uses .357 rounds. The .357 Magnum revolver is a single action, fixed-cylinder revolver that fires .357 Magnum and .38 special rounds. It has an average firing rate but makes up for it with a somewhat more powerful damage output. Its fixed cylinder is reloaded by hand one round at a time through the loading gate, as such it can be interrupted mid-way through reloading and fired if needed."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/357revolvershorthdcyl.mdl"
+ITEM.class = "weapon_357revolverlonghdcyl"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

@@ -1,0 +1,9 @@
+ITEM.name = "Advanced Power Armor"
+ITEM.desc = "The armor was created by the Enclave's skilled team of engineers and scientists after the Great War, as a result of a research program initiated in 2198, part of a larger project to develop various technologies. In 2215 the first actually superior suit is manufactured, entering service in 2220. Various accidents/explosions/deaths involved in its creation are classified by order of President Dick Richardson for the sake of the morale of the Enclave's personnel."
+ITEM.model = "models/llama/briefcasedopen.mdl"
+ITEM.width = 3
+ITEM.height = 3
+ITEM.outfitCategory = "model"
+ITEM.flag = "f"
+ITEM.category = "Outfits"
+ITEM.replacements = "models/nikout/advancedpowerarmor.mdl"

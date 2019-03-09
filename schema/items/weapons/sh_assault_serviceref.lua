@@ -1,0 +1,9 @@
+ITEM.name = "Service Rifle - Reflex Sight"
+ITEM.desc = "Uses 5.56mm rounds. A semi-automatic medium power rifle, this rifle is chambered in the common 5.56mm cartridge and has a magazine capacity of 20 rounds. The rifle is simple yet well made, and since it requires relatively low strength and Guns skill to use accurately, it makes a very reliable weapon often used by New California Republic troopers."
+ITEM.model = "models/halokiller38/fallout/weapons/assaultrifles/battlerifleap.mdl"
+ITEM.class = "weapon_serviceriflerec"
+ITEM.weaponCategory = "assault"
+ITEM.flag = "a"
+ITEM.category = "Assault Weapons"
+ITEM.width = 4
+ITEM.height = 2

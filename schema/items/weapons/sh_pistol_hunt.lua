@@ -1,0 +1,9 @@
+ITEM.name = "Hunting Revolver"
+ITEM.desc = "Uses .45-70 Govt. Rounds. The hunting revolver is a large, double-action revolver that fires .45-70 Gov't ammunition. It does a significant amount of damage and comes with a scope as standard, versus requiring a modification. The hunting revolver scope has decent magnification at 2.46x. Its base damage of 58 is the second highest of any non-energy pistol, and is surpassed only by the Ranger Sequoia, which has a base Damage of 62."
+ITEM.model = "models/halokiller38/fallout/weapons/pistols/huntingrevolver.mdl"
+ITEM.class = "weapon_huntingrevolver"
+ITEM.weaponCategory = "pistol"
+ITEM.flag = "P"
+ITEM.category = "Pistol Weapons"
+ITEM.width = 2
+ITEM.height = 1

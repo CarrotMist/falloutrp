@@ -1,0 +1,9 @@
+ITEM.name = ".50 MG Ammo"
+ITEM.desc = "A box of 30 rounds used for high end sniper rifles. Ammmo may not save after use."
+ITEM.entdrop = "50mgammo"
+ITEM.model = "models/visualitygaming/fallout/ammo/50cal.mdl"
+ITEM.price = 0
+ITEM.category = "Ammunition"
+ITEM.flag = "A"
+ITEM.width = 1
+ITEM.height = 1
